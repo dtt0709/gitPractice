@@ -1,2 +1,2 @@
 ## Bookmark
-- 구글: [Google](www.google.com)
+- 구글: [Google](https://google.com)
